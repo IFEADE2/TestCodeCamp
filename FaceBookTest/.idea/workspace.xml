@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5e0c7cc-2ad5-4d8a-a164-cf25d8029add" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0644d60c-6e4b-436e-82c4-6182baa176dc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0ef96ebd-1a4a-4f15-a2b6-68d2074cd6fb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2060ff3f-f5c2-4d12-8c6c-ea4cccf33742-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2660c527-46ad-429e-b493-570514269890-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2aa8477e-cc66-40bf-bc4d-aa682d24b548-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2b28b561-1e8f-475b-a5db-a3c9f1fdfe41-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/307a10f1-d293-48ea-a56a-abdd6e110c3c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/39dc9ee8-92c1-4ec7-841a-be386ac1d34d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3cd2baca-0110-429f-8b40-d3de864edfd7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3cff676f-a258-4c6a-b9af-f8acef5f0095-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/40a3113f-917d-4210-94c5-aba01c5fecf1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/484fb66f-9274-4e40-9afd-1b2e5de519af-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4a38a743-1c1c-4b74-89c4-6af0e216a4bc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/528d7000-217e-4002-b9ff-828c3e79818c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5be473a4-6056-41f4-acf6-859c79c09cd0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5fcc2028-11a6-4cf0-af2e-5c25eaf61bec-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/617828b9-5d7a-4936-869a-5784f98e3bbe-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/62125dc5-5174-4cd8-8195-d89411c28f7e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/71473a37-dc6e-4b37-b82b-b74e9a22518e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/733e3e6a-1d9b-45a5-91f4-6f09ffc3c979-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/738a14bb-fe63-4a05-ba95-cc43cd1e94b3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/74b75bfa-a1a6-419a-820c-6010c975417f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/754a8c92-b1fe-46d5-a292-4de45b980bcd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7d4e78d9-0b5b-405a-a8a4-09d27deedafb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7da84bc9-0927-4042-b718-9c29494b9858-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/84d010ff-a434-4c96-b06c-6202ab7d73ef-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/88f7d9e8-a27c-4821-8785-64b9027af404-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/88f8c17c-0db4-4b8b-aa7c-a5223002ff4e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/916fa5b9-cb4a-42a9-a557-4ed78ddecae8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/955ebe9d-f409-449e-87d9-98ae5fdba214-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9f9fa129-5733-48f3-b7c0-6f258b4abdee-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a2536fc9-dfcb-4b0e-ae6c-e7e33ceeb88d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a355f3e5-6f08-4c64-8bec-5e75fc907e9a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b13134a4-4a03-4912-a8eb-a3ba4c7b18eb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b5518732-bb79-4ab2-bfbc-ff5535229eb6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b90bb9b9-131c-4165-a46d-e30670a350e9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c15bd7b1-3fc1-448b-82df-4ffad4e592e0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c23c8ffd-5277-4ea9-9833-659f1102cc7d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d440dd18-f0a6-4593-9e41-5c3b77272695-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d8b98507-9666-4308-91fa-95f4f4d8dd21-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dc5906bc-a08d-4907-ae3c-dfaeecccf8e1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e28eb34e-b017-4f3a-a8d1-3153c0e8e8dd-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e5121328-869f-4cdc-9fe4-309e4d77ae17-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f83efe9d-0429-4cc5-b786-a46fed33cbb1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumWebSignUpTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PMjbN0Z1TJr2BAjpMnxWK2bD9u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/Downloads&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\IdeaProjects\FaceBookTest\Resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.SeleniumWebSignUpTest">
+    <configuration name="C:/Users/USER/IdeaProjects/FaceBookTest/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FaceBookTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumWebSignUpTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FaceBookTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumWebSignUpTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SeleniumWebSignUpTest" />
+        <item itemvalue="TestNG.C:/Users/USER/IdeaProjects/FaceBookTest/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5e0c7cc-2ad5-4d8a-a164-cf25d8029add" name="Changes" comment="" />
+      <created>1683273956494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683273956494</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
